@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (3.3.1)
+  - BaiduMapKit (2.10.2)
+  - JPush (2.1.6)
+  - MJRefresh (3.1.0)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SSZipArchive (1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - BaiduMapKit
+  - JPush
+  - MJRefresh
+  - SDWebImage
+  - SSZipArchive
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  BaiduMapKit: b1706a062597c70ec62a0cca93212cba1d3017e1
+  JPush: 9732a2a9e6a34729f660d6275704a5803d661e83
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  SSZipArchive: de3d215ab73f87db627f81f2ce24f1731e3886c3
+
+COCOAPODS: 0.39.0

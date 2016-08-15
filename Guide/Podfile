@@ -1,0 +1,8 @@
+use_frameworks!
+pod 'Alamofire', '~> 3.0'
+#pod 'SwiftyJSON', :git => 'https://github.com/SwiftyJSON/SwiftyJSON.git'
+pod 'MJRefresh'
+pod 'BaiduMapKit'
+pod 'SDWebImage'
+pod 'SSZipArchive'
+pod 'JPush'

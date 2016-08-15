@@ -1,0 +1,2062 @@
+{
+    "p": [
+          {
+          "name": "省份",
+          "py": "sheng_fen"
+          },
+          {
+          "name": "北京市",
+          "py": "bei_jing_shi"
+          },
+          {
+          "name": "河北省",
+          "py": "he_bei_sheng"
+          },
+          {
+          "name": "山东省",
+          "py": "shan_dong_sheng"
+          },
+          {
+          "name": "辽宁省",
+          "py": "liao_ning_sheng"
+          },
+          {
+          "name": "黑龙江省",
+          "py": "hei_long_jiang_sheng"
+          },
+          {
+          "name": "吉林省",
+          "py": "ji_lin_sheng"
+          },
+          {
+          "name": "甘肃省",
+          "py": "gan_su_sheng"
+          },
+          {
+          "name": "青海省",
+          "py": "qing_hai_sheng"
+          },
+          {
+          "name": "河南省",
+          "py": "he_nan_sheng"
+          },
+          {
+          "name": "江苏省",
+          "py": "jiang_su_sheng"
+          },
+          {
+          "name": "湖北省",
+          "py": "hu_bei_sheng"
+          },
+          {
+          "name": "湖南省",
+          "py": "hu_nan_sheng"
+          },
+          {
+          "name": "江西省",
+          "py": "jiang_xi_sheng"
+          },
+          {
+          "name": "浙江省",
+          "py": "zhe_jiang_sheng"
+          },
+          {
+          "name": "广东省",
+          "py": "guang_dong_sheng"
+          },
+          {
+          "name": "云南省",
+          "py": "yun_nan_sheng"
+          },
+          {
+          "name": "福建省",
+          "py": "fu_jian_sheng"
+          },
+          {
+          "name": "台湾省",
+          "py": "tai_wan_sheng"
+          },
+          {
+          "name": "海南省",
+          "py": "hai_nan_sheng"
+          },
+          {
+          "name": "山西省",
+          "py": "shan_xi_sheng"
+          },
+          {
+          "name": "四川省",
+          "py": "si_chuan_sheng"
+          },
+          {
+          "name": "陕西省",
+          "py": "shan_xi_sheng_1"
+          },
+          {
+          "name": "贵州省",
+          "py": "gui_zhou_sheng"
+          },
+          {
+          "name": "安徽省",
+          "py": "an_hui_sheng"
+          },
+          {
+          "name": "重庆市",
+          "py": "chong_qing_shi"
+          },
+          {
+          "name": "上海市",
+          "py": "shang_hai_shi"
+          },
+          {
+          "name": "天津市",
+          "py": "tian_jin_shi"
+          },
+          {
+          "name": "广西壮族自治区",
+          "py": "guang_xi_zhuang_zu_zi_zhi_qu"
+          },
+          {
+          "name": "内蒙古自治区",
+          "py": "nei_meng_gu_zi_zhi_qu"
+          },
+          {
+          "name": "西藏自治区",
+          "py": "xi_zang_zi_zhi_qu"
+          },
+          {
+          "name": "新疆维吾尔自治区",
+          "py": "xin_jiang_wei_wu_er_zi_zhi_qu"
+          },
+          {
+          "name": "宁夏回族自治区",
+          "py": "ning_xia_hui_zu_zi_zhi_qu"
+          },
+          {
+          "name": "澳门特别行政区",
+          "py": "ao_men_te_bie_xing_zheng_qu"
+          },
+          {
+          "name": "香港特别行政区",
+          "py": "xiang_gang_te_bie_xing_zheng_qu"
+          }
+          ],
+    "city": {
+        "guang_dong_sheng": [
+                             {
+                             "name": "东莞市",
+                             "py": "dong_guan_shi"
+                             },
+                             {
+                             "name": "广州市",
+                             "py": "guang_zhou_shi"
+                             },
+                             {
+                             "name": "中山市",
+                             "py": "zhong_shan_shi"
+                             },
+                             {
+                             "name": "深圳市",
+                             "py": "shen_zhen_shi"
+                             },
+                             {
+                             "name": "惠州市",
+                             "py": "hui_zhou_shi"
+                             },
+                             {
+                             "name": "江门市",
+                             "py": "jiang_men_shi"
+                             },
+                             {
+                             "name": "珠海市",
+                             "py": "zhu_hai_shi"
+                             },
+                             {
+                             "name": "汕头市",
+                             "py": "shan_tou_shi"
+                             },
+                             {
+                             "name": "佛山市",
+                             "py": "fu_shan_shi"
+                             },
+                             {
+                             "name": "湛江市",
+                             "py": "zhan_jiang_shi"
+                             },
+                             {
+                             "name": "河源市",
+                             "py": "he_yuan_shi"
+                             },
+                             {
+                             "name": "肇庆市",
+                             "py": "zhao_qing_shi"
+                             },
+                             {
+                             "name": "清远市",
+                             "py": "qing_yuan_shi"
+                             },
+                             {
+                             "name": "潮州市",
+                             "py": "chao_zhou_shi"
+                             },
+                             {
+                             "name": "韶关市",
+                             "py": "shao_guan_shi"
+                             },
+                             {
+                             "name": "揭阳市",
+                             "py": "jie_yang_shi"
+                             },
+                             {
+                             "name": "阳江市",
+                             "py": "yang_jiang_shi"
+                             },
+                             {
+                             "name": "梅州市",
+                             "py": "mei_zhou_shi"
+                             },
+                             {
+                             "name": "云浮市",
+                             "py": "yun_fu_shi"
+                             },
+                             {
+                             "name": "茂名市",
+                             "py": "mao_ming_shi"
+                             },
+                             {
+                             "name": "汕尾市",
+                             "py": "shan_wei_shi"
+                             }
+                             ],
+        "shan_dong_sheng": [
+                            {
+                            "name": "济南市",
+                            "py": "ji_nan_shi"
+                            },
+                            {
+                            "name": "青岛市",
+                            "py": "qing_dao_shi"
+                            },
+                            {
+                            "name": "临沂市",
+                            "py": "lin_yi_shi"
+                            },
+                            {
+                            "name": "济宁市",
+                            "py": "ji_ning_shi"
+                            },
+                            {
+                            "name": "菏泽市",
+                            "py": "he_ze_shi"
+                            },
+                            {
+                            "name": "烟台市",
+                            "py": "yan_tai_shi"
+                            },
+                            {
+                            "name": "淄博市",
+                            "py": "zi_bo_shi"
+                            },
+                            {
+                            "name": "泰安市",
+                            "py": "tai_an_shi"
+                            },
+                            {
+                            "name": "潍坊市",
+                            "py": "wei_fang_shi"
+                            },
+                            {
+                            "name": "日照市",
+                            "py": "ri_zhao_shi"
+                            },
+                            {
+                            "name": "威海市",
+                            "py": "wei_hai_shi"
+                            },
+                            {
+                            "name": "滨州市",
+                            "py": "bin_zhou_shi"
+                            },
+                            {
+                            "name": "东营市",
+                            "py": "dong_ying_shi"
+                            },
+                            {
+                            "name": "聊城市",
+                            "py": "liao_cheng_shi"
+                            },
+                            {
+                            "name": "德州市",
+                            "py": "de_zhou_shi"
+                            },
+                            {
+                            "name": "莱芜市",
+                            "py": "lai_wu_shi"
+                            },
+                            {
+                            "name": "枣庄市",
+                            "py": "zao_zhuang_shi"
+                            }
+                            ],
+        "jiang_su_sheng": [
+                           {
+                           "name": "苏州市",
+                           "py": "su_zhou_shi"
+                           },
+                           {
+                           "name": "徐州市",
+                           "py": "xu_zhou_shi"
+                           },
+                           {
+                           "name": "盐城市",
+                           "py": "yan_cheng_shi"
+                           },
+                           {
+                           "name": "无锡市",
+                           "py": "wu_xi_shi"
+                           },
+                           {
+                           "name": "南京市",
+                           "py": "nan_jing_shi"
+                           },
+                           {
+                           "name": "南通市",
+                           "py": "nan_tong_shi"
+                           },
+                           {
+                           "name": "连云港市",
+                           "py": "lian_yun_gang_shi"
+                           },
+                           {
+                           "name": "常州市",
+                           "py": "chang_zhou_shi"
+                           },
+                           {
+                           "name": "镇江市",
+                           "py": "zhen_jiang_shi"
+                           },
+                           {
+                           "name": "扬州市",
+                           "py": "yang_zhou_shi"
+                           },
+                           {
+                           "name": "淮安市",
+                           "py": "huai_an_shi"
+                           },
+                           {
+                           "name": "泰州市",
+                           "py": "tai_zhou_shi"
+                           },
+                           {
+                           "name": "宿迁市",
+                           "py": "su_qian_shi"
+                           }
+                           ],
+        "he_nan_sheng": [
+                         {
+                         "name": "郑州市",
+                         "py": "zheng_zhou_shi"
+                         },
+                         {
+                         "name": "南阳市",
+                         "py": "nan_yang_shi"
+                         },
+                         {
+                         "name": "新乡市",
+                         "py": "xin_xiang_shi"
+                         },
+                         {
+                         "name": "安阳市",
+                         "py": "an_yang_shi"
+                         },
+                         {
+                         "name": "洛阳市",
+                         "py": "luo_yang_shi"
+                         },
+                         {
+                         "name": "信阳市",
+                         "py": "xin_yang_shi"
+                         },
+                         {
+                         "name": "平顶山市",
+                         "py": "ping_ding_shan_shi"
+                         },
+                         {
+                         "name": "周口市",
+                         "py": "zhou_kou_shi"
+                         },
+                         {
+                         "name": "商丘市",
+                         "py": "shang_qiu_shi"
+                         },
+                         {
+                         "name": "开封市",
+                         "py": "kai_feng_shi"
+                         },
+                         {
+                         "name": "开封市",
+                         "py": "kai_feng_shi"
+                         },
+                         {
+                         "name": "焦作市",
+                         "py": "jiao_zuo_shi"
+                         },
+                         {
+                         "name": "驻马店市",
+                         "py": "zhu_ma_dian_shi"
+                         },
+                         {
+                         "name": "濮阳市",
+                         "py": "pu_yang_shi"
+                         },
+                         {
+                         "name": "三门峡市",
+                         "py": "san_men_xia_shi"
+                         },
+                         {
+                         "name": "漯河市",
+                         "py": "luo_he_shi"
+                         },
+                         {
+                         "name": "许昌市",
+                         "py": "xu_chang_shi"
+                         },
+                         {
+                         "name": "鹤壁市",
+                         "py": "he_bi_shi"
+                         },
+                         {
+                         "name": "济源市",
+                         "py": "ji_yuan_shi"
+                         }
+                         ],
+        "he_bei_sheng": [
+                         {
+                         "name": "石家庄市",
+                         "py": "shi_jia_zhuang_shi"
+                         },
+                         {
+                         "name": "唐山市",
+                         "py": "tang_shan_shi"
+                         },
+                         {
+                         "name": "保定市",
+                         "py": "bao_ding_shi"
+                         },
+                         {
+                         "name": "邯郸市",
+                         "py": "han_dan_shi"
+                         },
+                         {
+                         "name": "邢台市",
+                         "py": "xing_tai_shi"
+                         },
+                         {
+                         "name": "河北区",
+                         "py": "he_bei_qu"
+                         },
+                         {
+                         "name": "沧州市",
+                         "py": "cang_zhou_shi"
+                         },
+                         {
+                         "name": "秦皇岛市",
+                         "py": "qin_huang_dao_shi"
+                         },
+                         {
+                         "name": "张家口市",
+                         "py": "zhang_jia_kou_shi"
+                         },
+                         {
+                         "name": "衡水市",
+                         "py": "heng_shui_shi"
+                         },
+                         {
+                         "name": "廊坊市",
+                         "py": "lang_fang_shi"
+                         },
+                         {
+                         "name": "承德市",
+                         "py": "cheng_de_shi"
+                         }
+                         ],
+        "zhe_jiang_sheng": [
+                            {
+                            "name": "温州市",
+                            "py": "wen_zhou_shi"
+                            },
+                            {
+                            "name": "宁波市",
+                            "py": "ning_bo_shi"
+                            },
+                            {
+                            "name": "杭州市",
+                            "py": "hang_zhou_shi"
+                            },
+                            {
+                            "name": "台州市",
+                            "py": "tai_zhou_shi"
+                            },
+                            {
+                            "name": "嘉兴市",
+                            "py": "jia_xing_shi"
+                            },
+                            {
+                            "name": "金华市",
+                            "py": "jin_hua_shi"
+                            },
+                            {
+                            "name": "湖州市",
+                            "py": "hu_zhou_shi"
+                            },
+                            {
+                            "name": "绍兴市",
+                            "py": "shao_xing_shi"
+                            },
+                            {
+                            "name": "舟山市",
+                            "py": "zhou_shan_shi"
+                            },
+                            {
+                            "name": "丽水市",
+                            "py": "li_shui_shi"
+                            },
+                            {
+                            "name": "衢州市",
+                            "py": "qu_zhou_shi"
+                            }
+                            ],
+        "shan_xi_sheng": [
+                          {
+                          "name": "西安市",
+                          "py": "xi_an_shi"
+                          },
+                          {
+                          "name": "咸阳市",
+                          "py": "xian_yang_shi"
+                          },
+                          {
+                          "name": "宝鸡市",
+                          "py": "bao_ji_shi"
+                          },
+                          {
+                          "name": "汉中市",
+                          "py": "han_zhong_shi"
+                          },
+                          {
+                          "name": "渭南市",
+                          "py": "wei_nan_shi"
+                          },
+                          {
+                          "name": "安康市",
+                          "py": "an_kang_shi"
+                          },
+                          {
+                          "name": "榆林市",
+                          "py": "yu_lin_shi"
+                          },
+                          {
+                          "name": "商洛市",
+                          "py": "shang_luo_shi"
+                          },
+                          {
+                          "name": "延安市",
+                          "py": "yan_an_shi"
+                          },
+                          {
+                          "name": "铜川市",
+                          "py": "tong_chuan_shi"
+                          }
+                          ],
+        "hu_nan_sheng": [
+                         {
+                         "name": "长沙市",
+                         "py": "zhang_sha_shi"
+                         },
+                         {
+                         "name": "邵阳市",
+                         "py": "shao_yang_shi"
+                         },
+                         {
+                         "name": "常德市",
+                         "py": "chang_de_shi"
+                         },
+                         {
+                         "name": "衡阳市",
+                         "py": "heng_yang_shi"
+                         },
+                         {
+                         "name": "株洲市",
+                         "py": "zhu_zhou_shi"
+                         },
+                         {
+                         "name": "湘潭市",
+                         "py": "xiang_tan_shi"
+                         },
+                         {
+                         "name": "永州市",
+                         "py": "yong_zhou_shi"
+                         },
+                         {
+                         "name": "岳阳市",
+                         "py": "yue_yang_shi"
+                         },
+                         {
+                         "name": "怀化市",
+                         "py": "huai_hua_shi"
+                         },
+                         {
+                         "name": "郴州市",
+                         "py": "chen_zhou_shi"
+                         },
+                         {
+                         "name": "娄底市",
+                         "py": "lou_di_shi"
+                         },
+                         {
+                         "name": "益阳市",
+                         "py": "yi_yang_shi"
+                         },
+                         {
+                         "name": "张家界市",
+                         "py": "zhang_jia_jie_shi"
+                         },
+                         {
+                         "name": "湘西州",
+                         "py": "xiang_xi_zhou"
+                         }
+                         ],
+        "fu_jian_sheng": [
+                          {
+                          "name": "漳州市",
+                          "py": "zhang_zhou_shi"
+                          },
+                          {
+                          "name": "厦门市",
+                          "py": "sha_men_shi"
+                          },
+                          {
+                          "name": "泉州市",
+                          "py": "quan_zhou_shi"
+                          },
+                          {
+                          "name": "福州市",
+                          "py": "fu_zhou_shi"
+                          },
+                          {
+                          "name": "莆田市",
+                          "py": "pu_tian_shi"
+                          },
+                          {
+                          "name": "宁德市",
+                          "py": "ning_de_shi"
+                          },
+                          {
+                          "name": "三明市",
+                          "py": "san_ming_shi"
+                          },
+                          {
+                          "name": "南平市",
+                          "py": "nan_ping_shi"
+                          },
+                          {
+                          "name": "龙岩市",
+                          "py": "long_yan_shi"
+                          }
+                          ],
+        "yun_nan_sheng": [
+                          {
+                          "name": "昆明市",
+                          "py": "kun_ming_shi"
+                          },
+                          {
+                          "name": "红河州",
+                          "py": "hong_he_zhou"
+                          },
+                          {
+                          "name": "大理州",
+                          "py": "da_li_zhou"
+                          },
+                          {
+                          "name": "文山州",
+                          "py": "wen_shan_zhou"
+                          },
+                          {
+                          "name": "德宏州",
+                          "py": "de_hong_zhou"
+                          },
+                          {
+                          "name": "曲靖市",
+                          "py": "qu_jing_shi"
+                          },
+                          {
+                          "name": "昭通市",
+                          "py": "zhao_tong_shi"
+                          },
+                          {
+                          "name": "楚雄州",
+                          "py": "chu_xiong_zhou"
+                          },
+                          {
+                          "name": "保山市",
+                          "py": "bao_shan_shi"
+                          },
+                          {
+                          "name": "玉溪市",
+                          "py": "yu_xi_shi"
+                          },
+                          {
+                          "name": "丽江地区",
+                          "py": "li_jiang_de_qu"
+                          },
+                          {
+                          "name": "临沧地区",
+                          "py": "lin_cang_de_qu"
+                          },
+                          {
+                          "name": "思茅地区",
+                          "py": "si_mao_de_qu"
+                          },
+                          {
+                          "name": "西双版纳州",
+                          "py": "xi_shuang_ban_na_zhou"
+                          },
+                          {
+                          "name": "怒江州",
+                          "py": "nu_jiang_zhou"
+                          },
+                          {
+                          "name": "迪庆州",
+                          "py": "di_qing_zhou"
+                          }
+                          ],
+        "si_chuan_sheng": [
+                           {
+                           "name": "成都市",
+                           "py": "cheng_dou_shi"
+                           },
+                           {
+                           "name": "绵阳市",
+                           "py": "mian_yang_shi"
+                           },
+                           {
+                           "name": "广元市",
+                           "py": "guang_yuan_shi"
+                           },
+                           {
+                           "name": "达州市",
+                           "py": "da_zhou_shi"
+                           },
+                           {
+                           "name": "南充市",
+                           "py": "nan_chong_shi"
+                           },
+                           {
+                           "name": "德阳市",
+                           "py": "de_yang_shi"
+                           },
+                           {
+                           "name": "广安市",
+                           "py": "guang_an_shi"
+                           },
+                           {
+                           "name": "阿坝州",
+                           "py": "a_ba_zhou"
+                           },
+                           {
+                           "name": "巴中市",
+                           "py": "ba_zhong_shi"
+                           },
+                           {
+                           "name": "遂宁市",
+                           "py": "sui_ning_shi"
+                           },
+                           {
+                           "name": "内江市",
+                           "py": "nei_jiang_shi"
+                           },
+                           {
+                           "name": "凉山州",
+                           "py": "liang_shan_zhou"
+                           },
+                           {
+                           "name": "攀枝花市",
+                           "py": "pan_zhi_hua_shi"
+                           },
+                           {
+                           "name": "乐山市",
+                           "py": "le_shan_shi"
+                           },
+                           {
+                           "name": "自贡市",
+                           "py": "zi_gong_shi"
+                           },
+                           {
+                           "name": "泸州市",
+                           "py": "lu_zhou_shi"
+                           },
+                           {
+                           "name": "雅安市",
+                           "py": "ya_an_shi"
+                           },
+                           {
+                           "name": "宜宾市",
+                           "py": "yi_bin_shi"
+                           },
+                           {
+                           "name": "资阳市",
+                           "py": "zi_yang_shi"
+                           },
+                           {
+                           "name": "眉山市",
+                           "py": "mei_shan_shi"
+                           },
+                           {
+                           "name": "甘孜州",
+                           "py": "gan_zi_zhou"
+                           }
+                           ],
+        "an_hui_sheng": [
+                         {
+                         "name": "芜湖市",
+                         "py": "wu_hu_shi"
+                         },
+                         {
+                         "name": "合肥市",
+                         "py": "he_fei_shi"
+                         },
+                         {
+                         "name": "六安市",
+                         "py": "liu_an_shi"
+                         },
+                         {
+                         "name": "宿州市",
+                         "py": "su_zhou_shi"
+                         },
+                         {
+                         "name": "阜阳市",
+                         "py": "fu_yang_shi"
+                         },
+                         {
+                         "name": "安庆市",
+                         "py": "an_qing_shi"
+                         },
+                         {
+                         "name": "马鞍山市",
+                         "py": "ma_an_shan_shi"
+                         },
+                         {
+                         "name": "蚌埠市",
+                         "py": "bang_bu_shi"
+                         },
+                         {
+                         "name": "淮北市",
+                         "py": "huai_bei_shi"
+                         },
+                         {
+                         "name": "淮南市",
+                         "py": "huai_nan_shi"
+                         },
+                         {
+                         "name": "宣城市",
+                         "py": "xuan_cheng_shi"
+                         },
+                         {
+                         "name": "黄山市",
+                         "py": "huang_shan_shi"
+                         },
+                         {
+                         "name": "铜陵市",
+                         "py": "tong_ling_shi"
+                         },
+                         {
+                         "name": "亳州市",
+                         "py": "bo_zhou_shi"
+                         },
+                         {
+                         "name": "池州市",
+                         "py": "chi_zhou_shi"
+                         },
+                         {
+                         "name": "巢湖市",
+                         "py": "chao_hu_shi"
+                         },
+                         {
+                         "name": "滁州市",
+                         "py": "chu_zhou_shi"
+                         }
+                         ],
+        "hai_nan_sheng": [
+                          {
+                          "name": "三亚市",
+                          "py": "san_ya_shi"
+                          },
+                          {
+                          "name": "海口市",
+                          "py": "hai_kou_shi"
+                          },
+                          {
+                          "name": "琼海市",
+                          "py": "qiong_hai_shi"
+                          },
+                          {
+                          "name": "文昌市",
+                          "py": "wen_chang_shi"
+                          },
+                          {
+                          "name": "东方市",
+                          "py": "dong_fang_shi"
+                          },
+                          {
+                          "name": "昌江县",
+                          "py": "chang_jiang_xian"
+                          },
+                          {
+                          "name": "陵水县",
+                          "py": "ling_shui_xian"
+                          },
+                          {
+                          "name": "乐东县",
+                          "py": "le_dong_xian"
+                          },
+                          {
+                          "name": "保亭县",
+                          "py": "bao_ting_xian"
+                          },
+                          {
+                          "name": "五指山市",
+                          "py": "wu_zhi_shan_shi"
+                          },
+                          {
+                          "name": "澄迈县",
+                          "py": "cheng_mai_xian"
+                          },
+                          {
+                          "name": "万宁市",
+                          "py": "wan_ning_shi"
+                          },
+                          {
+                          "name": "儋州市",
+                          "py": "dan_zhou_shi"
+                          },
+                          {
+                          "name": "临高县",
+                          "py": "lin_gao_xian"
+                          },
+                          {
+                          "name": "白沙县",
+                          "py": "bai_sha_xian"
+                          },
+                          {
+                          "name": "定安县",
+                          "py": "ding_an_xian"
+                          },
+                          {
+                          "name": "琼中县",
+                          "py": "qiong_zhong_xian"
+                          },
+                          {
+                          "name": "屯昌县",
+                          "py": "tun_chang_xian"
+                          }
+                          ],
+        "jiang_xi_sheng": [
+                           {
+                           "name": "南昌市",
+                           "py": "nan_chang_shi"
+                           },
+                           {
+                           "name": "赣州市",
+                           "py": "gan_zhou_shi"
+                           },
+                           {
+                           "name": "上饶市",
+                           "py": "shang_rao_shi"
+                           },
+                           {
+                           "name": "吉安市",
+                           "py": "ji_an_shi"
+                           },
+                           {
+                           "name": "九江市",
+                           "py": "jiu_jiang_shi"
+                           },
+                           {
+                           "name": "新余市",
+                           "py": "xin_yu_shi"
+                           },
+                           {
+                           "name": "抚州市",
+                           "py": "fu_zhou_shi"
+                           },
+                           {
+                           "name": "宜春市",
+                           "py": "yi_chun_shi"
+                           },
+                           {
+                           "name": "景德镇市",
+                           "py": "jing_de_zhen_shi"
+                           },
+                           {
+                           "name": "萍乡市",
+                           "py": "ping_xiang_shi"
+                           },
+                           {
+                           "name": "鹰潭市",
+                           "py": "ying_tan_shi"
+                           }
+                           ],
+        "hu_bei_sheng": [
+                         {
+                         "name": "武汉市",
+                         "py": "wu_han_shi"
+                         },
+                         {
+                         "name": "宜昌市",
+                         "py": "yi_chang_shi"
+                         },
+                         {
+                         "name": "襄樊市",
+                         "py": "xiang_fan_shi"
+                         },
+                         {
+                         "name": "荆州市",
+                         "py": "jing_zhou_shi"
+                         },
+                         {
+                         "name": "恩施州",
+                         "py": "en_shi_zhou"
+                         },
+                         {
+                         "name": "黄冈市",
+                         "py": "huang_gang_shi"
+                         },
+                         {
+                         "name": "孝感市",
+                         "py": "xiao_gan_shi"
+                         },
+                         {
+                         "name": "十堰市",
+                         "py": "shi_yan_shi"
+                         },
+                         {
+                         "name": "咸宁市",
+                         "py": "xian_ning_shi"
+                         },
+                         {
+                         "name": "黄石市",
+                         "py": "huang_shi_shi"
+                         },
+                         {
+                         "name": "仙桃市",
+                         "py": "xian_tao_shi"
+                         },
+                         {
+                         "name": "天门市",
+                         "py": "tian_men_shi"
+                         },
+                         {
+                         "name": "随州市",
+                         "py": "sui_zhou_shi"
+                         },
+                         {
+                         "name": "荆门市",
+                         "py": "jing_men_shi"
+                         },
+                         {
+                         "name": "潜江市",
+                         "py": "qian_jiang_shi"
+                         },
+                         {
+                         "name": "鄂州市",
+                         "py": "e_zhou_shi"
+                         },
+                         {
+                         "name": "神农架林区",
+                         "py": "shen_nong_jia_lin_qu"
+                         }
+                         ],
+        "shan_xi_sheng_1": [
+                            {
+                            "name": "太原市",
+                            "py": "tai_yuan_shi"
+                            },
+                            {
+                            "name": "大同市",
+                            "py": "da_tong_shi"
+                            },
+                            {
+                            "name": "运城市",
+                            "py": "yun_cheng_shi"
+                            },
+                            {
+                            "name": "长治市",
+                            "py": "zhang_zhi_shi"
+                            },
+                            {
+                            "name": "晋城市",
+                            "py": "jin_cheng_shi"
+                            },
+                            {
+                            "name": "忻州市",
+                            "py": "xin_zhou_shi"
+                            },
+                            {
+                            "name": "临汾市",
+                            "py": "lin_fen_shi"
+                            },
+                            {
+                            "name": "吕梁市",
+                            "py": "lu_liang_shi"
+                            },
+                            {
+                            "name": "晋中市",
+                            "py": "jin_zhong_shi"
+                            },
+                            {
+                            "name": "阳泉市",
+                            "py": "yang_quan_shi"
+                            },
+                            {
+                            "name": "朔州市",
+                            "py": "shuo_zhou_shi"
+                            }
+                            ],
+        "liao_ning_sheng": [
+                            {
+                            "name": "大连市",
+                            "py": "da_lian_shi"
+                            },
+                            {
+                            "name": "沈阳市",
+                            "py": "shen_yang_shi"
+                            },
+                            {
+                            "name": "丹东市",
+                            "py": "dan_dong_shi"
+                            },
+                            {
+                            "name": "辽阳市",
+                            "py": "liao_yang_shi"
+                            },
+                            {
+                            "name": "葫芦岛市",
+                            "py": "hu_lu_dao_shi"
+                            },
+                            {
+                            "name": "锦州市",
+                            "py": "jin_zhou_shi"
+                            },
+                            {
+                            "name": "朝阳市",
+                            "py": "chao_yang_shi"
+                            },
+                            {
+                            "name": "营口市",
+                            "py": "ying_kou_shi"
+                            },
+                            {
+                            "name": "鞍山市",
+                            "py": "an_shan_shi"
+                            },
+                            {
+                            "name": "抚顺市",
+                            "py": "fu_shun_shi"
+                            },
+                            {
+                            "name": "阜新市",
+                            "py": "fu_xin_shi"
+                            },
+                            {
+                            "name": "盘锦市",
+                            "py": "pan_jin_shi"
+                            },
+                            {
+                            "name": "本溪市",
+                            "py": "ben_xi_shi"
+                            },
+                            {
+                            "name": "铁岭市",
+                            "py": "tie_ling_shi"
+                            }
+                            ],
+        "tai_wan_sheng": [
+                          {
+                          "name": "台北市",
+                          "py": "tai_bei_shi"
+                          },
+                          {
+                          "name": "高雄市",
+                          "py": "gao_xiong_shi"
+                          },
+                          {
+                          "name": "台中市",
+                          "py": "tai_zhong_shi"
+                          },
+                          {
+                          "name": "新竹市",
+                          "py": "xin_zhu_shi"
+                          },
+                          {
+                          "name": "基隆市",
+                          "py": "ji_long_shi"
+                          },
+                          {
+                          "name": "台南市",
+                          "py": "tai_nan_shi"
+                          },
+                          {
+                          "name": "嘉义市",
+                          "py": "jia_yi_shi"
+                          }
+                          ],
+        "hei_long_jiang_sheng": [
+                                 {
+                                 "name": "齐齐哈尔市",
+                                 "py": "qi_qi_ha_er_shi"
+                                 },
+                                 {
+                                 "name": "哈尔滨市",
+                                 "py": "ha_er_bin_shi"
+                                 },
+                                 {
+                                 "name": "大庆市",
+                                 "py": "da_qing_shi"
+                                 },
+                                 {
+                                 "name": "佳木斯市",
+                                 "py": "jia_mu_si_shi"
+                                 },
+                                 {
+                                 "name": "双鸭山市",
+                                 "py": "shuang_ya_shan_shi"
+                                 },
+                                 {
+                                 "name": "牡丹江市",
+                                 "py": "mu_dan_jiang_shi"
+                                 },
+                                 {
+                                 "name": "鸡西市",
+                                 "py": "ji_xi_shi"
+                                 },
+                                 {
+                                 "name": "黑河市",
+                                 "py": "hei_he_shi"
+                                 },
+                                 {
+                                 "name": "绥化市",
+                                 "py": "sui_hua_shi"
+                                 },
+                                 {
+                                 "name": "鹤岗市",
+                                 "py": "he_gang_shi"
+                                 },
+                                 {
+                                 "name": "伊春市",
+                                 "py": "yi_chun_shi"
+                                 },
+                                 {
+                                 "name": "大兴安岭地区",
+                                 "py": "da_xing_an_ling_de_qu"
+                                 },
+                                 {
+                                 "name": "七台河市",
+                                 "py": "qi_tai_he_shi"
+                                 }
+                                 ],
+        "gui_zhou_sheng": [
+                           {
+                           "name": "贵阳市",
+                           "py": "gui_yang_shi"
+                           },
+                           {
+                           "name": "黔东南州",
+                           "py": "qian_dong_nan_zhou"
+                           },
+                           {
+                           "name": "黔南州",
+                           "py": "qian_nan_zhou"
+                           },
+                           {
+                           "name": "遵义市",
+                           "py": "zun_yi_shi"
+                           },
+                           {
+                           "name": "黔西南州",
+                           "py": "qian_xi_nan_zhou"
+                           },
+                           {
+                           "name": "毕节地区",
+                           "py": "bi_jie_de_qu"
+                           },
+                           {
+                           "name": "铜仁地区",
+                           "py": "tong_ren_de_qu"
+                           },
+                           {
+                           "name": "安顺市",
+                           "py": "an_shun_shi"
+                           },
+                           {
+                           "name": "六盘水市",
+                           "py": "liu_pan_shui_shi"
+                           }
+                           ],
+        "gan_su_sheng": [
+                         {
+                         "name": "兰州市",
+                         "py": "lan_zhou_shi"
+                         },
+                         {
+                         "name": "天水市",
+                         "py": "tian_shui_shi"
+                         },
+                         {
+                         "name": "庆阳市",
+                         "py": "qing_yang_shi"
+                         },
+                         {
+                         "name": "武威市",
+                         "py": "wu_wei_shi"
+                         },
+                         {
+                         "name": "酒泉市",
+                         "py": "jiu_quan_shi"
+                         },
+                         {
+                         "name": "张掖市",
+                         "py": "zhang_ye_shi"
+                         },
+                         {
+                         "name": "陇南地区",
+                         "py": "long_nan_de_qu"
+                         },
+                         {
+                         "name": "白银市",
+                         "py": "bai_yin_shi"
+                         },
+                         {
+                         "name": "定西地区",
+                         "py": "ding_xi_de_qu"
+                         },
+                         {
+                         "name": "平凉市",
+                         "py": "ping_liang_shi"
+                         },
+                         {
+                         "name": "嘉峪关市",
+                         "py": "jia_yu_guan_shi"
+                         },
+                         {
+                         "name": "临夏回族自治州",
+                         "py": "lin_xia_hui_zu_zi_zhi_zhou"
+                         },
+                         {
+                         "name": "金昌市",
+                         "py": "jin_chang_shi"
+                         },
+                         {
+                         "name": "甘南州",
+                         "py": "gan_nan_zhou"
+                         }
+                         ],
+        "qing_hai_sheng": [
+                           {
+                           "name": "西宁市",
+                           "py": "xi_ning_shi"
+                           },
+                           {
+                           "name": "海西州",
+                           "py": "hai_xi_zhou"
+                           },
+                           {
+                           "name": "海东地区",
+                           "py": "hai_dong_de_qu"
+                           },
+                           {
+                           "name": "海北州",
+                           "py": "hai_bei_zhou"
+                           },
+                           {
+                           "name": "果洛州",
+                           "py": "guo_luo_zhou"
+                           },
+                           {
+                           "name": "玉树州",
+                           "py": "yu_shu_zhou"
+                           },
+                           {
+                           "name": "黄南藏族自治州",
+                           "py": "huang_nan_cang_zu_zi_zhi_zhou"
+                           }
+                           ],
+        "ji_ling_sheng": [
+                          {
+                          "name": "吉林市",
+                          "py": "ji_lin_shi"
+                          },
+                          {
+                          "name": "长春市",
+                          "py": "zhang_chun_shi"
+                          },
+                          {
+                          "name": "白山市",
+                          "py": "bai_shan_shi"
+                          },
+                          {
+                          "name": "延边州",
+                          "py": "yan_bian_zhou"
+                          },
+                          {
+                          "name": "白城市",
+                          "py": "bai_cheng_shi"
+                          },
+                          {
+                          "name": "松原市",
+                          "py": "song_yuan_shi"
+                          },
+                          {
+                          "name": "辽源市",
+                          "py": "liao_yuan_shi"
+                          },
+                          {
+                          "name": "通化市",
+                          "py": "tong_hua_shi"
+                          },
+                          {
+                          "name": "四平市",
+                          "py": "si_ping_shi"
+                          }
+                          ],
+        "ni_xi_hui_zu_zi_zhi_qu": [
+                                   {
+                                   "name": "银川市",
+                                   "py": "yin_chuan_shi"
+                                   },
+                                   {
+                                   "name": "吴忠市",
+                                   "py": "wu_zhong_shi"
+                                   },
+                                   {
+                                   "name": "中卫市",
+                                   "py": "zhong_wei_shi"
+                                   },
+                                   {
+                                   "name": "石嘴山市",
+                                   "py": "shi_zui_shan_shi"
+                                   },
+                                   {
+                                   "name": "固原市",
+                                   "py": "gu_yuan_shi"
+                                   }
+                                   ],
+        "xi_zang_zi_zhi_qu": [
+                              {
+                              "name": "拉萨市",
+                              "py": "la_sa_shi"
+                              },
+                              {
+                              "name": "山南地区",
+                              "py": "shan_nan_de_qu"
+                              },
+                              {
+                              "name": "林芝地区",
+                              "py": "lin_zhi_de_qu"
+                              },
+                              {
+                              "name": "日喀则地区",
+                              "py": "ri_ka_ze_de_qu"
+                              },
+                              {
+                              "name": "阿里地区",
+                              "py": "a_li_de_qu"
+                              },
+                              {
+                              "name": "昌都地区",
+                              "py": "chang_dou_de_qu"
+                              },
+                              {
+                              "name": "那曲地区",
+                              "py": "na_qu_de_qu"
+                              }
+                              ],
+        "xin_jiang_wei_wu_er_zi_si_qu": [
+                                         {
+                                         "name": "乌鲁木齐市",
+                                         "py": "wu_lu_mu_qi_shi"
+                                         },
+                                         {
+                                         "name": "伊犁州",
+                                         "py": "yi_li_zhou"
+                                         },
+                                         {
+                                         "name": "昌吉州",
+                                         "py": "chang_ji_zhou"
+                                         },
+                                         {
+                                         "name": "石河子市",
+                                         "py": "shi_he_zi_shi"
+                                         },
+                                         {
+                                         "name": "哈密地区",
+                                         "py": "ha_mi_de_qu"
+                                         },
+                                         {
+                                         "name": "阿克苏地区",
+                                         "py": "a_ke_su_de_qu"
+                                         },
+                                         {
+                                         "name": "巴音郭楞州",
+                                         "py": "ba_yin_guo_leng_zhou"
+                                         },
+                                         {
+                                         "name": "喀什地区",
+                                         "py": "ka_shen_de_qu"
+                                         },
+                                         {
+                                         "name": "塔城地区",
+                                         "py": "ta_cheng_de_qu"
+                                         },
+                                         {
+                                         "name": "克拉玛依市",
+                                         "py": "ke_la_ma_yi_shi"
+                                         },
+                                         {
+                                         "name": "和田地区",
+                                         "py": "he_tian_de_qu"
+                                         },
+                                         {
+                                         "name": "阿勒泰州",
+                                         "py": "a_lei_tai_zhou"
+                                         },
+                                         {
+                                         "name": "吐鲁番地区",
+                                         "py": "tu_lu_fan_de_qu"
+                                         },
+                                         {
+                                         "name": "阿拉尔市",
+                                         "py": "a_la_er_shi"
+                                         },
+                                         {
+                                         "name": "博尔塔拉州",
+                                         "py": "bo_er_ta_la_zhou"
+                                         },
+                                         {
+                                         "name": "五家渠市",
+                                         "py": "wu_jia_qu_shi"
+                                         },
+                                         {
+                                         "name": "克孜勒苏州",
+                                         "py": "ke_zi_lei_su_zhou"
+                                         },
+                                         {
+                                         "name": "图木舒克市",
+                                         "py": "tu_mu_shu_ke_shi"
+                                         }
+                                         ],
+        "nei_meng_gu_zi_zhi_qu": [
+                                  {
+                                  "name": "赤峰市",
+                                  "py": "chi_feng_shi"
+                                  },
+                                  {
+                                  "name": "包头市",
+                                  "py": "bao_tou_shi"
+                                  },
+                                  {
+                                  "name": "通辽市",
+                                  "py": "tong_liao_shi"
+                                  },
+                                  {
+                                  "name": "呼和浩特市",
+                                  "py": "hu_he_hao_te_shi"
+                                  },
+                                  {
+                                  "name": "鄂尔多斯市",
+                                  "py": "e_er_duo_si_shi"
+                                  },
+                                  {
+                                  "name": "乌海市",
+                                  "py": "wu_hai_shi"
+                                  },
+                                  {
+                                  "name": "呼伦贝尔市",
+                                  "py": "hu_lun_bei_er_shi"
+                                  },
+                                  {
+                                  "name": "兴安盟",
+                                  "py": "xing_an_meng"
+                                  },
+                                  {
+                                  "name": "巴彦淖尔盟",
+                                  "py": "ba_yan_nao_er_meng"
+                                  },
+                                  {
+                                  "name": "乌兰察布盟",
+                                  "py": "wu_lan_cha_bu_meng"
+                                  },
+                                  {
+                                  "name": "锡林郭勒盟",
+                                  "py": "xi_lin_guo_lei_meng"
+                                  },
+                                  {
+                                  "name": "阿拉善盟",
+                                  "py": "a_la_shan_meng"
+                                  }
+                                  ],
+        "guang_xi_zhuang_zu_zi_zhi_qu": [
+                                         {
+                                         "name": "贵港市",
+                                         "py": "gui_gang_shi"
+                                         },
+                                         {
+                                         "name": "玉林市",
+                                         "py": "yu_lin_shi"
+                                         },
+                                         {
+                                         "name": "北海市",
+                                         "py": "bei_hai_shi"
+                                         },
+                                         {
+                                         "name": "南宁市",
+                                         "py": "nan_ning_shi"
+                                         },
+                                         {
+                                         "name": "柳州市",
+                                         "py": "liu_zhou_shi"
+                                         },
+                                         {
+                                         "name": "桂林市",
+                                         "py": "gui_lin_shi"
+                                         },
+                                         {
+                                         "name": "梧州市",
+                                         "py": "wu_zhou_shi"
+                                         },
+                                         {
+                                         "name": "钦州市",
+                                         "py": "qin_zhou_shi"
+                                         },
+                                         {
+                                         "name": "来宾市",
+                                         "py": "lai_bin_shi"
+                                         },
+                                         {
+                                         "name": "河池市",
+                                         "py": "he_chi_shi"
+                                         },
+                                         {
+                                         "name": "百色市",
+                                         "py": "bai_se_shi"
+                                         },
+                                         {
+                                         "name": "贺州市",
+                                         "py": "he_zhou_shi"
+                                         },
+                                         {
+                                         "name": "崇左市",
+                                         "py": "chong_zuo_shi"
+                                         },
+                                         {
+                                         "name": "防城港市",
+                                         "py": "fang_cheng_gang_shi"
+                                         }
+                                         ],
+        "bei_jing_shi": [
+                         {
+                         "name": "朝阳区",
+                         "py": "chao_yang_qu"
+                         },
+                         {
+                         "name": "海淀区",
+                         "py": "hai_dian_qu"
+                         },
+                         {
+                         "name": "通州区",
+                         "py": "tong_zhou_qu"
+                         },
+                         {
+                         "name": "房山区",
+                         "py": "fang_shan_qu"
+                         },
+                         {
+                         "name": "丰台区",
+                         "py": "feng_tai_qu"
+                         },
+                         {
+                         "name": "昌平区",
+                         "py": "chang_ping_qu"
+                         },
+                         {
+                         "name": "大兴区",
+                         "py": "da_xing_qu"
+                         },
+                         {
+                         "name": "顺义区",
+                         "py": "shun_yi_qu"
+                         },
+                         {
+                         "name": "西城区",
+                         "py": "xi_cheng_qu"
+                         },
+                         {
+                         "name": "延庆县",
+                         "py": "yan_qing_xian"
+                         },
+                         {
+                         "name": "石景山区",
+                         "py": "shi_jing_shan_qu"
+                         },
+                         {
+                         "name": "宣武区",
+                         "py": "xuan_wu_qu"
+                         },
+                         {
+                         "name": "怀柔区",
+                         "py": "huai_rou_qu"
+                         },
+                         {
+                         "name": "崇文区",
+                         "py": "chong_wen_qu"
+                         },
+                         {
+                         "name": "密云县",
+                         "py": "mi_yun_xian"
+                         },
+                         {
+                         "name": "东城区",
+                         "py": "dong_cheng_qu"
+                         },
+                         {
+                         "name": "平谷区",
+                         "py": "ping_gu_qu"
+                         },
+                         {
+                         "name": "门头沟区",
+                         "py": "men_tou_gou_qu"
+                         }
+                         ],
+        "shang_hai_shi": [
+                          {
+                          "name": "松江区",
+                          "py": "song_jiang_qu"
+                          },
+                          {
+                          "name": "宝山区",
+                          "py": "bao_shan_qu"
+                          },
+                          {
+                          "name": "金山区",
+                          "py": "jin_shan_qu"
+                          },
+                          {
+                          "name": "嘉定区",
+                          "py": "jia_ding_qu"
+                          },
+                          {
+                          "name": "南汇区",
+                          "py": "nan_hui_qu"
+                          },
+                          {
+                          "name": "青汇区",
+                          "py": "nan_hui_qu"
+                          },
+                          {
+                          "name": "青浦区",
+                          "py": "qing_pu_qu"
+                          },
+                          {
+                          "name": "浦东新区",
+                          "py": "pu_dong_xin_qu"
+                          },
+                          {
+                          "name": "奉贤区",
+                          "py": "feng_xian_qu"
+                          },
+                          {
+                          "name": "徐汇区",
+                          "py": "xu_hui_qu"
+                          },
+                          {
+                          "name": "静安区",
+                          "py": "jing_an_qu"
+                          },
+                          {
+                          "name": "闵行区",
+                          "py": "min_xing_qu"
+                          },
+                          {
+                          "name": "黄浦区",
+                          "py": "huang_pu_qu"
+                          },
+                          {
+                          "name": "杨浦区",
+                          "py": "yang_pu_qu"
+                          },
+                          {
+                          "name": "虹口区",
+                          "py": "hong_kou_qu"
+                          },
+                          {
+                          "name": "普陀区",
+                          "py": "pu_tuo_qu"
+                          },
+                          {
+                          "name": "闸北区",
+                          "py": "zha_bei_qu"
+                          },
+                          {
+                          "name": "长宁区",
+                          "py": "zhang_ning_qu"
+                          },
+                          {
+                          "name": "崇明县",
+                          "py": "chong_ming_xian"
+                          },
+                          {
+                          "name": "卢湾区",
+                          "py": "lu_wan_qu"
+                          }
+                          ],
+        "chong_qing_shi": [
+                           {
+                           "name": "江北区",
+                           "py": "jiang_bei_qu"
+                           },
+                           {
+                           "name": "渝北区",
+                           "py": "yu_bei_qu"
+                           },
+                           {
+                           "name": "沙坪坝区",
+                           "py": "sha_ping_ba_qu"
+                           },
+                           {
+                           "name": "九龙坡区",
+                           "py": "jiu_long_po_qu"
+                           },
+                           {
+                           "name": "万州区",
+                           "py": "wan_zhou_qu"
+                           },
+                           {
+                           "name": "永川州区",
+                           "py": "wan_zhou_qu"
+                           },
+                           {
+                           "name": "永川市",
+                           "py": "yong_chuan_shi"
+                           },
+                           {
+                           "name": "南岸区",
+                           "py": "nan_an_qu"
+                           },
+                           {
+                           "name": "酉阳县",
+                           "py": "you_yang_xian"
+                           },
+                           {
+                           "name": "北碚区",
+                           "py": "bei_bei_qu"
+                           },
+                           {
+                           "name": "涪陵区",
+                           "py": "fu_ling_qu"
+                           },
+                           {
+                           "name": "秀山县",
+                           "py": "xiu_shan_xian"
+                           },
+                           {
+                           "name": "巴南区",
+                           "py": "ba_nan_qu"
+                           },
+                           {
+                           "name": "渝中区",
+                           "py": "yu_zhong_qu"
+                           },
+                           {
+                           "name": "石柱县",
+                           "py": "shi_zhu_xian"
+                           },
+                           {
+                           "name": "忠县",
+                           "py": "zhong_xian"
+                           },
+                           {
+                           "name": "合川市",
+                           "py": "he_chuan_shi"
+                           },
+                           {
+                           "name": "大渡口区",
+                           "py": "da_du_kou_qu"
+                           },
+                           {
+                           "name": "开县",
+                           "py": "kai_xian"
+                           },
+                           {
+                           "name": "长寿区",
+                           "py": "zhang_shou_qu"
+                           },
+                           {
+                           "name": "荣昌县",
+                           "py": "rong_chang_xian"
+                           },
+                           {
+                           "name": "云阳县",
+                           "py": "yun_yang_xian"
+                           },
+                           {
+                           "name": "梁平县",
+                           "py": "liang_ping_xian"
+                           },
+                           {
+                           "name": "潼南县",
+                           "py": "tong_nan_xian"
+                           },
+                           {
+                           "name": "江津市",
+                           "py": "jiang_jin_shi"
+                           },
+                           {
+                           "name": "彭水县",
+                           "py": "peng_shui_xian"
+                           },
+                           {
+                           "name": "綦江县",
+                           "py": "qi_jiang_xian"
+                           },
+                           {
+                           "name": "璧山县",
+                           "py": "bi_shan_xian"
+                           },
+                           {
+                           "name": "黔江区",
+                           "py": "qian_jiang_qu"
+                           },
+                           {
+                           "name": "大足县",
+                           "py": "da_zu_xian"
+                           },
+                           {
+                           "name": "巫山县",
+                           "py": "wu_shan_xian"
+                           },
+                           {
+                           "name": "巫溪县",
+                           "py": "wu_xi_xian"
+                           },
+                           {
+                           "name": "垫江县",
+                           "py": "dian_jiang_xian"
+                           },
+                           {
+                           "name": "丰都县",
+                           "py": "feng_dou_xian"
+                           },
+                           {
+                           "name": "武隆县",
+                           "py": "wu_long_xian"
+                           },
+                           {
+                           "name": "万盛区",
+                           "py": "wan_sheng_qu"
+                           },
+                           {
+                           "name": "铜梁县",
+                           "py": "tong_liang_xian"
+                           },
+                           {
+                           "name": "南川市",
+                           "py": "nan_chuan_shi"
+                           },
+                           {
+                           "name": "奉节县",
+                           "py": "feng_jie_xian"
+                           },
+                           {
+                           "name": "双桥区",
+                           "py": "shuang_qiao_qu"
+                           },
+                           {
+                           "name": "城口县",
+                           "py": "cheng_kou_xian"
+                           }
+                           ],
+        "tian_jing_shi": [
+                          {
+                          "name": "和平区",
+                          "py": "he_ping_qu"
+                          },
+                          {
+                          "name": "北辰区",
+                          "py": "bei_chen_qu"
+                          },
+                          {
+                          "name": "河北区",
+                          "py": "he_bei_qu"
+                          },
+                          {
+                          "name": "河西区",
+                          "py": "he_xi_qu"
+                          },
+                          {
+                          "name": "西青区",
+                          "py": "xi_qing_qu"
+                          },
+                          {
+                          "name": "津南区",
+                          "py": "jin_nan_qu"
+                          },
+                          {
+                          "name": "东丽区",
+                          "py": "dong_li_qu"
+                          },
+                          {
+                          "name": "武清区",
+                          "py": "wu_qing_qu"
+                          },
+                          {
+                          "name": "宝坻区",
+                          "py": "bao_chi_qu"
+                          },
+                          {
+                          "name": "红桥区",
+                          "py": "hong_qiao_qu"
+                          },
+                          {
+                          "name": "大港区",
+                          "py": "da_gang_qu"
+                          },
+                          {
+                          "name": "汉沽区",
+                          "py": "han_gu_qu"
+                          },
+                          {
+                          "name": "静海县",
+                          "py": "jing_hai_xian"
+                          },
+                          {
+                          "name": "塘沽区",
+                          "py": "tang_gu_qu"
+                          },
+                          {
+                          "name": "宁河县",
+                          "py": "ning_he_xian"
+                          },
+                          {
+                          "name": "蓟县",
+                          "py": "ji_xian"
+                          },
+                          {
+                          "name": "南开区",
+                          "py": "nan_kai_qu"
+                          },
+                          {
+                          "name": "河东区",
+                          "py": "he_dong_qu"
+                          }
+                          ]
+    }
+}
